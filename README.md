@@ -61,7 +61,7 @@ pip install gtts playsound
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sign-language-recognition.git
+   https://github.com/JahnaviSingh2005/Blind-s-Eye-project.git
    ```
 
 2. Navigate to the project folder:
